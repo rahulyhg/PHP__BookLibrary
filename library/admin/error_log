@@ -1,0 +1,748 @@
+[05-Feb-2014 18:53:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:53:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:53:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 8
+[05-Feb-2014 18:53:08] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 14
+[05-Feb-2014 18:53:08] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[05-Feb-2014 18:53:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'teamkcom'@'localhost' (using password: NO) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:53:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:53:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 25
+[05-Feb-2014 18:54:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:54:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:54:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'teamkcom'@'localhost' (using password: YES) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 8
+[05-Feb-2014 18:54:08] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 14
+[05-Feb-2014 18:54:08] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[05-Feb-2014 18:54:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'teamkcom'@'localhost' (using password: NO) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 25
+[05-Feb-2014 18:54:15] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:54:15] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:54:15] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[05-Feb-2014 18:54:15] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:54:16] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:54:16] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:54:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'teamkcom'@'localhost' (using password: YES) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 8
+[05-Feb-2014 18:54:16] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 14
+[05-Feb-2014 18:54:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'teamkcom'@'localhost' (using password: NO) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 25
+[05-Feb-2014 18:54:22] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:54:22] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:54:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'teamkcom'@'localhost' (using password: YES) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 8
+[05-Feb-2014 18:54:22] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 14
+[05-Feb-2014 18:54:22] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[05-Feb-2014 18:54:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'teamkcom'@'localhost' (using password: NO) in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 24
+[05-Feb-2014 18:54:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 25
+[05-Feb-2014 18:56:05] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:05] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:05] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[05-Feb-2014 18:56:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:08] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[05-Feb-2014 18:56:10] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:10] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:10] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[05-Feb-2014 18:56:10] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:11] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:11] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:11] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 36
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 40
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 31
+[05-Feb-2014 18:56:14] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 72
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 52
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 56
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 47
+[05-Feb-2014 18:56:19] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 72
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 16
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 25
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 21
+[05-Feb-2014 18:56:21] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 71
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 127
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 193
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 196
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 126
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 183
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 184
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 136
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 201
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 204
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 125
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 125
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 128
+[05-Feb-2014 18:56:23] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 94
+[05-Feb-2014 18:56:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:29] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[05-Feb-2014 18:56:29] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:31] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:31] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:31] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 94
+[05-Feb-2014 18:56:31] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:33] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[05-Feb-2014 18:56:33] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:37] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:40] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[05-Feb-2014 18:56:40] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 126
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 177
+[05-Feb-2014 18:56:42] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:31] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:31] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:31] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[06-Feb-2014 05:36:35] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 71
+[06-Feb-2014 05:36:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:37] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[06-Feb-2014 05:36:37] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:38] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:38] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:38] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:40] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[06-Feb-2014 05:36:40] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:42] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:42] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:42] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 125
+[06-Feb-2014 05:36:42] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 36
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 40
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 31
+[06-Feb-2014 05:36:43] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 72
+[06-Feb-2014 05:36:45] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:45] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:45] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 24
+[06-Feb-2014 05:36:45] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:46] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:46] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:46] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 108
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 127
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 194
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 197
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 126
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 178
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 178
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 178
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 178
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 178
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 183
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 184
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 136
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 164
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 201
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 204
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 125
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 125
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 128
+[06-Feb-2014 05:36:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 94
+[06-Feb-2014 05:36:54] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:54] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:54] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[06-Feb-2014 05:36:56] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:56] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:56] PHP Notice:  Undefined index:  confirm_drop in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 24
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[06-Feb-2014 05:36:58] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 71
+[06-Feb-2014 18:57:52] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:57:52] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:49] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:49] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:52] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:52] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:57] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:58:57] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:11] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:11] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:20] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:20] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:22] PHP Warning:  require(/home/teamkcom/public_html/libv2/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[06-Feb-2014 18:59:22] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/libv2/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[07-Feb-2014 05:04:58] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 05:04:58] PHP Warning:  require(/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 05:04:58] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 05:15:06] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[07-Feb-2014 05:15:06] PHP Warning:  require(/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[07-Feb-2014 05:15:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 3
+[07-Feb-2014 05:20:07] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:20:07] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:20:07] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 05:20:09] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:20:09] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:20:09] PHP Notice:  Undefined index:  confirm_drop in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 24
+[07-Feb-2014 05:20:12] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:20:12] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:20:12] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 05:20:13] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:20:13] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:20:13] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:20:13] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:20:13] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:21:57] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:21:57] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:21:57] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:21:57] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:21:57] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:22:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:22:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:22:08] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:22:08] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:22:08] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:27] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:27] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:27] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:28] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:28] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:28] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:28] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:28] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:29] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:29] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:29] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:32] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:32] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:32] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 05:25:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:33] PHP Notice:  Undefined index:  confirm_drop in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 24
+[07-Feb-2014 05:25:36] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:36] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:36] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 05:25:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 05:25:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 05:25:37] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:37] PHP Warning:  require(/mysqlConnectInfo.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 05:25:37] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/mysqlConnectInfo.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:04] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 07:51:04] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 07:51:04] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 07:51:05] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 07:51:05] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 07:51:05] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:05] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './php_css/mysqlConnectInfo.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:05] PHP Warning:  include(../php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:05] PHP Warning:  include(../php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php_css/mysqlConnectInfo.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:05] PHP Fatal error:  Call to undefined function  mysqlconnectinfo() in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 42
+[07-Feb-2014 07:51:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 07:51:08] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 07:51:08] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:08] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './php_css/mysqlConnectInfo.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 07:51:08] PHP Warning:  include(../php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:08] PHP Warning:  include(../php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../php_css/mysqlConnectInfo.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 07:51:08] PHP Fatal error:  Call to undefined function  mysqlconnectinfo() in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 42
+[07-Feb-2014 08:00:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:00:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:00:43] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 08:00:43] PHP Warning:  include(./php_css/mysqlConnectInfo.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 08:00:43] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './php_css/mysqlConnectInfo.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 40
+[07-Feb-2014 08:00:43] PHP Fatal error:  Call to undefined function  mysqlconnectinfo() in /home/teamkcom/public_html/toni/libv2/php_class/connectMysqlServer.php on line 41
+[07-Feb-2014 08:19:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:19:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:19:27] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 199
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 202
+[07-Feb-2014 08:19:35] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:35] PHP Warning:  require_once(/Classes.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Classes.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[07-Feb-2014 08:19:41] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 199
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 202
+[07-Feb-2014 08:19:44] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:44] PHP Warning:  require_once(/Classes.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:44] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Classes.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:45] PHP Warning:  require(define_css.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:19:45] PHP Warning:  require(define_css.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:19:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'define_css.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 199
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 202
+[07-Feb-2014 08:19:48] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:48] PHP Warning:  require_once(/Classes.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:19:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Classes.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[07-Feb-2014 08:24:47] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:24:50] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:24:50] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:24:50] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:24:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:26:19] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:26:19] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:26:19] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:26:19] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 3
+[07-Feb-2014 08:27:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:27] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:27] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:27:27] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:27:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:29] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:27:29] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:27:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:33] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:27:33] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:27:35] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:27:41] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:27:41] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:27:41] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:27:41] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:27:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:44] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:27:44] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:27:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:27:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:27:47] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:27:47] PHP Warning:  require_once(/Books.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:27:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Books.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:27:50] PHP Warning:  require(/home/teamkcom/public_html/toni/libv2/php_class/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 3
+[07-Feb-2014 08:27:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/toni/libv2/php_class/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 3
+[07-Feb-2014 08:27:53] PHP Warning:  require(/home/teamkcom/public_html/toni/libv2/php_class/php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 3
+[07-Feb-2014 08:27:53] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/teamkcom/public_html/toni/libv2/php_class/php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 3
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[07-Feb-2014 08:28:07] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:28:08] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/setSampleData.php on line 3
+[07-Feb-2014 08:28:08] PHP Warning:  require_once(php_class/login.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/setSampleData.php on line 3
+[07-Feb-2014 08:28:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/setSampleData.php on line 3
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 199
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 202
+[07-Feb-2014 08:28:53] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:28:53] PHP Warning:  require_once(/Classes.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:28:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Classes.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 105
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:29:46] PHP Notice:  Undefined index:  classPath in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:29:46] PHP Warning:  require_once(/Books.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:29:46] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/Books.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 122
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 131
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 100
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 129
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 132
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: tableName in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 98
+[07-Feb-2014 08:30:19] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 98
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:31:25] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:31:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:31:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:31:29] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:31:29] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:31:30] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:31:30] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:31:30] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:31:30] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:31:32] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:31:32] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:31:32] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:31:32] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:31:34] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:31:34] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:31:34] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:31:34] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:31:35] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 3
+[07-Feb-2014 08:31:35] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 3
+[07-Feb-2014 08:31:35] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 3
+[07-Feb-2014 08:31:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 3
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 57
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 61
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 52
+[07-Feb-2014 08:32:33] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 61
+[07-Feb-2014 08:32:35] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:32:35] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:32:35] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:32:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 3
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 36
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 40
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 31
+[07-Feb-2014 08:33:09] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 61
+[07-Feb-2014 08:33:10] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:33:10] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:33:11] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 52
+[07-Feb-2014 08:33:11] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 56
+[07-Feb-2014 08:33:11] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 47
+[07-Feb-2014 08:33:11] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 61
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 16
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 25
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 21
+[07-Feb-2014 08:33:12] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:33:15] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:33:21] PHP Notice:  Undefined index:  adminRoot in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 3
+[07-Feb-2014 08:33:21] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 3
+[07-Feb-2014 08:33:21] PHP Warning:  require(php_class/login.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 3
+[07-Feb-2014 08:33:21] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'php_class/login.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 3
+[07-Feb-2014 08:34:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:34:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:34:41] PHP Notice:  Undefined index:  confirm_drop in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 24
+[07-Feb-2014 08:34:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:34:43] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:34:43] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 08:34:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:34:44] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:34:44] PHP Notice:  Undefined index:  confirm_drop in /home/teamkcom/public_html/toni/libv2/admin/dropDatabase.php on line 24
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[07-Feb-2014 08:34:47] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:34:49] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:34:50] PHP Warning:  require(define_css.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:34:50] PHP Warning:  require(define_css.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:34:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'define_css.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 3
+[07-Feb-2014 08:36:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:36:29] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:36:29] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 23
+[07-Feb-2014 08:36:34] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:36:34] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:36:34] PHP Notice:  Undefined index:  classlevel in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 141
+[07-Feb-2014 08:36:34] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 160
+[07-Feb-2014 08:36:38] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:36:38] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:36:38] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 23
+[07-Feb-2014 08:36:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:36:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:36:40] PHP Notice:  Undefined index:  cardid in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 213
+[07-Feb-2014 08:36:40] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 235
+[07-Feb-2014 08:36:40] PHP Fatal error:  Call to undefined function  getclasslist() in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 238
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:36:41] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:38:45] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:38:45] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:38:45] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 08:51:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:48] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:48] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:51:50] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 08:51:53] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:53] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:53] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/addRecord.php on line 23
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 18
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 27
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 23
+[07-Feb-2014 08:51:54] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:51:55] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:55] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:55] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 08:51:55] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 36
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 40
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 31
+[07-Feb-2014 08:51:56] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 61
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 52
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 56
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 47
+[07-Feb-2014 08:51:57] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/dropTables.php on line 61
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 16
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 25
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 21
+[07-Feb-2014 08:51:59] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/addTable.php on line 62
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 36
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 40
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 31
+[07-Feb-2014 08:52:01] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/clearTable.php on line 61
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Classes.php on line 132
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 200
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 203
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformHeader in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 132
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: transformData in /home/teamkcom/public_html/toni/libv2/php_class/Readers.php on line 184
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 196
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: noRec in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 197
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 219
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 222
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Loans.php on line 137
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 130
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: result in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 133
+[07-Feb-2014 08:52:02] PHP Notice:  Undefined variable: returnValue in /home/teamkcom/public_html/toni/libv2/php_class/Stacks.php on line 99
+[07-Feb-2014 11:50:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 11:50:35] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 11:50:35] PHP Notice:  Undefined index:  CreateDB in /home/teamkcom/public_html/toni/libv2/admin/checkDatabase.php on line 25
+[07-Feb-2014 11:50:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 11:50:37] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 11:50:37] PHP Notice:  Undefined index:  tablename in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 22
+[07-Feb-2014 11:50:37] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 8
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: sessionLogAs in /home/teamkcom/public_html/toni/libv2/php_class/login.php on line 9
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionHeader in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 142
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined variable: actionButton in /home/teamkcom/public_html/toni/libv2/php_class/Books.php on line 173
+[07-Feb-2014 11:50:40] PHP Notice:  Undefined index:  debugMsg in /home/teamkcom/public_html/toni/libv2/admin/printTable.php on line 94

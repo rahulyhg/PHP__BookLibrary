@@ -1,0 +1,133 @@
+body  {
+	margin-top:65px; margin-bottom: 8px; margin-left: 8px; margin-right: 8px; padding:0;
+}
+hr  {	display: block; float: left; clear: both; width: 100%;}
+#header  {
+	display:block; margin:0; padding:0; border:1px solid #999999;
+	background: linear-gradient(to right, #FF9600, #FFFFFF);
+	position:fixed; top:0px; left:0px; width:100%; height:auto; line-height: 24px;
+	z-index:3;
+    }
+#siteTitleBar  {	display:block; margin:0; padding:4px; width:100%; height:24px;}
+#menuControlBar  {
+	display:block; margin:0; padding:0 8px;
+	background-color:#CCCCCC;
+	width:100%; height:26px;
+	font:11pt Arial;
+}
+#menuControlBar ul  { //first layer of main menu
+	list-style:none; display:block; margin:0; padding:0;
+	float:left; width:100%; height:24px;
+}
+#menuControlBar ul li  { //list item inside first layer of main menu
+	list-style: none; display: block; margin: 0; padding-top: 4px; padding-bottom: 0px; padding-left: 6px; padding-right:6px;
+	border: 1px solid #CCCCCC; background: #CCCCCC;
+	float: left; position: relative; top: 0px; width: auto; height: 20px;
+}
+#menuControlBar ul li:hover {
+	background: #BBE1E8; border: 1px solid #59787E;
+}
+#menuControlBar ul ul  { //second layer of main menu	list-style: none; display: block; margin: 0; padding: 0; width: 152px; height: auto; border: 1px solid #999999;
+	position: absolute; top: 25px; z-index:9;
+}
+#menuControlBar ul ul li { //list item inside second layer of main menu
+	list-style: none; display:block; margin: 0; padding: 0; float: left; width: 150px;
+	height:26px; line-height:20pt;
+}
+#header a:link     { color: #000000; text-decoration: none; display: block; width: 100%; }
+#header a:visited  { color: #000000; text-decoration: none; display: block; width: 100%; }
+#header a:hover    { color: #000000; text-decoration: none; display: block; width: 100%; }
+#header a:active   { color: #000000; text-decoration: none; display: block; width: 100%; }
+
+a.buttonlink {
+	color: #000000; font-size: 8pt; font-family: Arial; text-decoration: none;
+	display: block; float: left; border:2px outset #cccccc; padding: 2px; margin-left: 1px; margin-right:1px;
+}
+a.buttonlink:link  { color: #000000; background: #CCCCCC }
+a.buttonlink:visited  { color: #000000; background: #CCCCCC }
+a.buttonlink:hover    { color: #000000; background: #E0E0E0}
+a.buttonlink:active   { color: #000000; background: #FFFFEE; border-style: inset; }
+#sidebar  {	position:absolute; z-index:2; right:0;
+  	display:block; float:right; margin:0; padding:0; width:200px;}
+.msgbox  {
+	display:block; float:right; margin:0; padding:8px; width:100%;
+	border:2px groove #E0E0E0; background:#FFFAC0;
+	font-size:10pt; text-wrap:suppress;
+}
+.warning  {	color: red;}
+#content  {
+	position:relative; z-index:1;
+	display:block; float:left; left:5px; top:0;
+	width:96%; height:auto; margin:0 auto;
+}
+#page-title a {	display:block; margin:10px 0 0 0; padding:5px; width:100px; float:left;
+	border:1px solid #CCE; border-radius:5px 5px 0 0; background-image:linear-gradient(to bottom, #fff, #cce);
+	color:#666; text-align:center; text-decoration:none;}
+#page-title a:hover {
+	background-image:linear-gradient(to bottom, #fff, #DDF);
+	color:#00F;
+}
+#page-subtitle a {
+	display:block; margin:17px 0 0 0; padding:5px; width:100px; float:left;
+	border:1px solid #CCE; border-radius:5px 5px 0 0; background-image:linear-gradient(to bottom, #fff, #cce);
+	color:#666; text-align:center; text-decoration:none; line-height: 0.825em;
+}
+#page-subtitle a:hover {
+	background-image:linear-gradient(to bottom, #fff, #DDF);
+	color:#00F;
+}
+#page-title-active {
+	display:block; margin:10px 0 0 0; padding:5px; width:100px; float:left;
+	border:1px solid #CCE; border-radius:5px 5px 0 0; background-image:linear-gradient(to bottom, #fff, #EEF);
+	color:black; text-align:center;
+}
+#page-content {	display:block; margin:0; padding:0; width:100%; clear:left;	border:1px solid #CCE; border-radius:0 0 5px 5px; background-image:linear-gradient(to bottom, #fff, #EEE);
+}
+.formTitle  { display: inline; float: left; width:120px; }
+#page-content p {	padding: 0px 8px 0px 8px;}
+.formInput  { display: inline; }
+.resultTitle  {	display:block; width:100%;
+  	font-size:18pt; font-family:"Times New Roman" ; font-weight:bold; color:#000000; text-align:center;
+}
+.resultTable  {  	display:table; width:990px; margin:10px auto;
+  	border:2px ridge #CCCCCC; padding:3px;
+}
+.resultRow  {
+  	display:table-row; padding:0px;
+}
+.resultHeader  {
+  	display:table-cell; background:#CCCCCC; font-weight:bold; text-align:center;
+  	border:1px solid #000000; padding:3px;
+}
+.resultData  {
+  	display:table-cell; text-align:center; vertical-align:middle; text-wrap:suppress;
+  	border:1px solid #000000; padding:3px;
+}
+.resultDataL  {
+  	display:table-cell; text-align:left; vertical-align:middle;
+  	border:1px solid #000000; padding:3px;
+}
+.resultDataR  {
+  	display:table-cell; text-align:right; vertical-align:middle;
+  	border:1px solid #000000; padding:3px;
+}
+#sysMsg  {
+	display:inline-block; margin:10px 5px 5px 5px; padding:5px;
+  	color:#FFF; background-color:#7D7;
+  	border:2px solid #AAF; border-radius:5px;
+}
+
+/* following CSS is for login page */
+#loginbox{
+	displa:block; margin:10px 5px; padding:0; width: 260px;
+	border:1px solid #99E; border-radius:5px; background-color:#EEF;
+}
+#loginboxheader, #page-header{
+	margin:0; padding:5px;
+	background-image:linear-gradient(to right, #AAC, #EEF);
+	color:#FFF; font-size:1em; font-weight:bold;
+}
+#loginbox table, td {
+	border:0;
+	padding:5px 5px 5px 5px;
+}
